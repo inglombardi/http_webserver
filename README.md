@@ -2,7 +2,7 @@
 This work helps you to design a HTTP server
 
 
-# HTTP/1.1 Web Server with 130 Mimetypes [Not-Published]
+# HTTP/1.1 Web Server with 130 Mimetypes 
 
 ## Overview
 
